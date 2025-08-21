@@ -22,5 +22,6 @@
   },
   "file_types": {
     "HTML": ["tmpl"]
-  }
+  },
+  "vim_mode": true
 }
